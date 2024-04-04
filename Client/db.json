@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "59c6",
+      "name": "Joan Vinson",
+      "email": "pyxyh@mailinator.com",
+      "mobile": "61",
+      "password": "Pa$$w0rd!",
+      "confirmpass": "Pa$$w0rd!"
+    },
+    {
+      "id": "0296",
+      "name": "Ciara Wilder",
+      "email": "pikunuqeta@mailinator.com",
+      "mobile": "35",
+      "password": "Pa$$w0rd!",
+      "confirmpass": "Pa$$w0rd!"
+    },
+    {
+      "id": "fddf",
+      "name": "Celeste Caldwell",
+      "email": "nidixux@mailinator.com",
+      "mobile": "17",
+      "password": "Pa$$w0rd!",
+      "confirmpass": "Pa$$w0rd!"
+    },
+    {
+      "id": "a3f1",
+      "name": "",
+      "email": "nikih@mailinator.com",
+      "mobile": "28",
+      "password": "Pa$$w0rd!",
+      "confirmpass": "Pa$$w0rd!",
+      "firstName": "Oprah",
+      "lastName": "Greer"
+    }
+  ]
+}
